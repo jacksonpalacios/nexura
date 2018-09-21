@@ -1,0 +1,10 @@
+{
+    "name": "jackson/nexura",
+    "authors": [
+        {
+            "name": "Jackson",
+            "email": "jackson.palacios@correounivalle.edu.co"
+        }
+    ],
+    "require": {}
+}
